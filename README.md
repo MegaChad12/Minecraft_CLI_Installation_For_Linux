@@ -1,3 +1,3 @@
 # Minecraft_Linux_Setup
-minecraft setup
+minecraft setup.
 it depends on TLauncher.
